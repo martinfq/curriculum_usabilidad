@@ -1,5 +1,5 @@
 import './App.css'
-import SobreMi from 'src//components/Sobremi'
+import SobreMi from 'src/components/Sobremi'
 import Inicio from 'src/components/Inicio.jsx'
 
 
