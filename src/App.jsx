@@ -1,6 +1,6 @@
 import './App.css'
-import SobreMi from './components/Sobremi'
-import Inicio from './components/inicio'
+import SobreMi from 'src//components/Sobremi'
+import Inicio from 'src/components/Inicio.jsx'
 
 
 function App() {
