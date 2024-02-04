@@ -32,7 +32,7 @@ function SobreMi() {
             onClick={togglePlayPause}
             alt="Mis motivaciones"
           >
-            <source src="/video.mp4" type="video/mp4" />
+            <source src="video.mp4" type="video/mp4" />
             Tu navegador no soporta el elemento de video.
           </video>
 

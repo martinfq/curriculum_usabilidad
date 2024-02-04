@@ -2,7 +2,7 @@
 function Inicio() {
     return (
         <div style={{ display: 'flex', alignItems: 'center' }}>
-            <img src='/img.jpg' alt="foto de perfil de persona sonriendo"  style={{ marginRight: '20px', width: '200px' }}/>
+            <img src='img.jpg' alt="foto de perfil de persona sonriendo"  style={{ marginRight: '20px', width: '200px' }}/>
 
             <div>
 
